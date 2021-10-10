@@ -1,7 +1,7 @@
 name: "smt201_project"
 title: "SMT201 GIS Project Website"
 description: |
-  SMT201 GIS Project Website
+  SMT201 GIS Project Website I'm trying sth out
 output_dir: "_site"
 navbar:
   left:
