@@ -5,7 +5,7 @@ description: |
 output_dir: "_site"
 navbar:
   left:
-    - text: "Overview"
+    - text: "Overview_lmao"
       href: overview.html
     - text: "Data Preparation"
       href: dataprep.html
